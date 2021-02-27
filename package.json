@@ -1,0 +1,8 @@
+{
+  "name": "smart-ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:salimtb/smart-ecommerce.git",
+  "author": "salim <salim.toubal@zenika.com>",
+  "license": "MIT"
+}
